@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Kitaplik-Uygulamasi-w-React-Firebase/static/css/main.dbb1d1b8.css",
-    "main.js": "/Kitaplik-Uygulamasi-w-React-Firebase/static/js/main.a8ec9a85.js",
+    "main.js": "/Kitaplik-Uygulamasi-w-React-Firebase/static/js/main.2e119156.js",
     "index.html": "/Kitaplik-Uygulamasi-w-React-Firebase/index.html",
     "main.dbb1d1b8.css.map": "/Kitaplik-Uygulamasi-w-React-Firebase/static/css/main.dbb1d1b8.css.map",
-    "main.a8ec9a85.js.map": "/Kitaplik-Uygulamasi-w-React-Firebase/static/js/main.a8ec9a85.js.map"
+    "main.2e119156.js.map": "/Kitaplik-Uygulamasi-w-React-Firebase/static/js/main.2e119156.js.map"
   },
   "entrypoints": [
     "static/css/main.dbb1d1b8.css",
-    "static/js/main.a8ec9a85.js"
+    "static/js/main.2e119156.js"
   ]
 }
