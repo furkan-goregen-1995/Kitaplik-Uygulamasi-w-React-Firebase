@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AFG-Blog-App-React-Firebase/static/css/main.dbb1d1b8.css",
-    "main.js": "/AFG-Blog-App-React-Firebase/static/js/main.e62d41c7.js",
-    "index.html": "/AFG-Blog-App-React-Firebase/index.html",
-    "main.dbb1d1b8.css.map": "/AFG-Blog-App-React-Firebase/static/css/main.dbb1d1b8.css.map",
-    "main.e62d41c7.js.map": "/AFG-Blog-App-React-Firebase/static/js/main.e62d41c7.js.map"
+    "main.css": "/Kitaplik-Uygulamasi-w-React-Firebase/static/css/main.dbb1d1b8.css",
+    "main.js": "/Kitaplik-Uygulamasi-w-React-Firebase/static/js/main.e62d41c7.js",
+    "index.html": "/Kitaplik-Uygulamasi-w-React-Firebase/index.html",
+    "main.dbb1d1b8.css.map": "/Kitaplik-Uygulamasi-w-React-Firebase/static/css/main.dbb1d1b8.css.map",
+    "main.e62d41c7.js.map": "/Kitaplik-Uygulamasi-w-React-Firebase/static/js/main.e62d41c7.js.map"
   },
   "entrypoints": [
     "static/css/main.dbb1d1b8.css",
