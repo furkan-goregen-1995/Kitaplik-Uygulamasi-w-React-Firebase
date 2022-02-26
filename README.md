@@ -3,6 +3,10 @@
 <h1> Kitaplık Uygulaması (React + Firebase)</h1>
 <p>React ve Firebase ortaklığında hazırlamış olduğum bu proje ile kitap bilgilerinizi Google destekli Firebase ile rahatlıkla depolayabilirsiniz.</p>
 
+# Demo
+
+<a href="https://furkan-goregen-1995.github.io/Kitaplik-Uygulamasi-w-React-Firebase">Live preview</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
